@@ -73,3 +73,4 @@ yarn prod
 ### Change app title
 
 Change the app title in the **webpack.build.config.js** and the **webpack.dev.config.js** files
+"# BugLogger" 
